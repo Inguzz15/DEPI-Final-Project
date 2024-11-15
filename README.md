@@ -1,6 +1,8 @@
 # DEPI-Final-Project
 Team X's performance over a 3-month period in Billing Department of Customer's Service 
 
+<img width="428" alt="DEPI TL" src="https://github.com/user-attachments/assets/8ddb5e4c-4333-455d-9de6-0694e1a791ba">
+
 The analysis in this Power BI dashboard combines **call volume metrics**, **agent performance data**, and **call categorization** to identify and assess patterns of repeated customer interactions. Here’s an overview of the analytical techniques used:
 
 1. **Repeat Rate Calculation**:
